@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "096DE17B-2CA5-49ED-AAE6-7C8053A6AE3E"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EF7BBD47-ED29-48FD-88BE-16FA677B9E2F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AnimationButtonUIKit/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "52"
+            endingLineNumber = "52"
+            landmarkName = "animateButton(scale:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "EF7BBD47-ED29-48FD-88BE-16FA677B9E2F - 8e45824d492ba419"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AnimationButtonUIKit.FTUIkitInteractionButton.animateButton(scale: CoreGraphics.CGFloat) -&gt; ()"
+                  moduleName = "AnimationButtonUIKit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rakesh/Desktop/AnimationButtonUIKit/AnimationButtonUIKit/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "152">
+               </Location>
+               <Location
+                  uuid = "EF7BBD47-ED29-48FD-88BE-16FA677B9E2F - 8e45824d492ba419"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AnimationButtonUIKit.FTUIkitInteractionButton.animateButton(scale: CoreGraphics.CGFloat) -&gt; ()"
+                  moduleName = "AnimationButtonUIKit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rakesh/Desktop/AnimationButtonUIKit/AnimationButtonUIKit/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "156">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
